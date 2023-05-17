@@ -1,0 +1,226 @@
+/* Nulování hodnot pro jednotný vzhled napříč prohlížeči */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Základní styl pro celou stránku */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+
+
+/*Logo*/
+.logo a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.logo img {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+.uvodni p {
+  text-align: center;
+  font: italic small-caps bold 16px/2 cursive;
+
+}
+
+/*kocky na uvodce*/
+.wrapper {
+  margin: 200px auto;
+  width: 70%;
+}
+
+.wrapper img {
+  max-width: 400px;
+  float: left;
+  border: 3px solid #fff;
+  border-radius: 20px;
+  margin-right: 100px;
+}
+
+.text-box {
+  color: #050505;
+}
+
+.text-box h3 {
+  font-size: 26px;
+  text-decoration-line: underline;
+  text-decoration-color: #f7e3ad;
+}
+
+.text-box h3:hover,
+.text-box h3:active {
+  font-size: 28px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-box a:visited {
+  color: #050505;
+  text-decoration-line: underline;
+  text-decoration-color: #f7e3ad;
+}
+
+.text-box p {
+  font-size: 20px;
+  font-family: serif;
+}
+
+/* Hlavička stránky */
+header {
+
+  color: #000000;
+  padding: 20px;
+  background: linear-gradient(to bottom, rgb(145, 141, 141), rgb(255, 255, 255));
+  border-bottom: 1px solid #ccc;
+}
+
+/*socialní sítě*/
+.social-links {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 20px;
+}
+
+.social-links a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
+.social-links img {
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+
+
+/* Navigace v hlavičce */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 20px;
+  font-size: 16px;
+}
+
+nav a {
+  color: #000000;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Nadpis stránky */
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/* Hlavní obsah */
+main {
+  padding: 20px;
+}
+
+.fading-hr {
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, black, transparent);
+  background-size: 100%;
+  background-position: left bottom, right bottom;
+  background-repeat: no-repeat;
+  border: none;
+  margin-left: 400px;
+  margin-right: 400px;
+
+}
+
+/* Patička stránky */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+
+/*zkouska*/
+.maincontainer {
+  position: relative;
+  width: 250px;
+  height: 320px;
+  background: green;
+}
+
+.thecard {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  background: yellow;
+}
+
+.thecard:hover {
+  transform: rotateY(180deg);
+}
+
+.thefront {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #ffc728;
+  color: #333;
+}
+
+.theback {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: #fafafa;
+  color: #333;
+  transform: rotateY(180deg);
+}

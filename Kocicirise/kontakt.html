@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Kočičí říše - rady a inspirace pro milovníky koček">
+    <meta name="keywords"
+        content="kočičí produkty, hračky pro kočky, rady pro majitele koček, péče o kočky, kočičí milovníci, kočky">
+    <meta name="author" content="Vaše jméno nebo jméno vaší firmy">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="kontakt.css">
+    <title>Kočičí říše</title>
+    <script src="style.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <h1 class="logo-heading">
+                <a href="index.html">
+                    <img src="Images/logo.svg" alt="logo">
+                </a>
+                KOČIČÍ ŘÍŠE
+            </h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <span>|</span>
+                <li><a href="galerie.html">Galerie</a></li>
+                <span>|</span>
+                <li><a href="kocici-produkty.html">Kočičí produkty</a></li>
+                <span>|</span>
+                <li><a href="pece-o-kocky.html">Péče o kočky</a></li>
+                <span>|</span>
+                <li><a href="blog.html">Blog</a></li>
+                <span>|</span>
+                <li><a href="o-nas.html">O nás</a></li>
+                <span>|</span>
+                <li><a href="kontakt.html">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="social-links">
+        <a href="https://www.facebook.com/">
+            <img src="Images/facebook.svg" alt="Facebook">
+        </a>
+        <a href="https://www.instagram.com/">
+            <img src="Images/instagram.svg" alt="Instagram">
+        </a>
+        <a href="https://www.twitter.com/">
+            <img src="Images/twitter.svg" alt="Twitter">
+        </a>
+    </div>
+    <main>
+        <hr class="fading-hr">
+        <h2>Kontaktuje nás</h2>
+        <hr class="fading-hr2">
+        <div class="form-wrapper">
+            <div class="form-info">
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore sed nihil quos minima, consectetur
+                    impedit ducimus, assumenda veritatis ab deleniti quaerat. Ducimus illo sunt fuga libero voluptatum,
+                    minima explicabo cumque!Prosím, vyplňte následující formulář pro kontakt s námi. Rádi vám odpovíme
+                    na vaše dotazy nebo
+                    připomínky.
+                </p>
+                <p><strong>E-mail:</strong> asdasd </p>
+                <p><strong>telefon:</strong> 755 88 777</p>
+                <p><strong>sídlo:</strong> 45 asssdw 7/95</p>
+            </div>
+            <form action="/odeslat" method="post">
+                <label for="jmeno">Jméno:</label>
+                <input type="text" id="jmeno" name="jmeno" required>
+                <br>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+                <br>
+                <label for="zprava">Zpráva:</label>
+                <textarea id="zprava" name="zprava" rows="5" required></textarea>
+                <br>
+                <input type="submit" value="Odeslat">
+            </form>
+
+        </div>
+
+
+    </main>
+    <footer>
+        <p>&copy; 2023 Kočičí říše</p>
+    </footer>
+</body>
+
+</html>

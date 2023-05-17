@@ -1,0 +1,29 @@
+   /* Responsivní design - pro menší obrazovky */
+   @media (max-width: 768px) {
+    header {
+    padding: 10px;
+    }
+    
+    h1 {
+    font-size: 2em;
+    }
+    
+    nav ul {
+    display: none;
+    }
+    
+    nav li {
+    display: block;
+    margin: 10px 0;
+    }
+    
+    nav a {
+    display: block;
+    padding: 5px 0;
+    }
+    
+    nav a:hover {
+    background-color: #fff;
+    color: #333;
+    }
+}

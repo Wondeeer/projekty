@@ -1,0 +1,45 @@
+/* Nastavení stylů pro záhlaví */
+header {
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+/* Nastavení stylů pro sekce "O nás" */
+#o-nas {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul {
+    margin-bottom: 15px;
+}
+
+/* Nastavení stylů pro sekci "Naše historie" */
+#nase-historie {
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+/* Nastavení stylů pro zápatí */
+
+
+/* Nastavení globálních stylů */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
