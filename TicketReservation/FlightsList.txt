@@ -1,0 +1,42 @@
+ Praha,Paříž,1.6.2023,1.6.2023,  Czech Airlines,  2000 ,  business.,6:00,7:30
+ Praha,Paříž,1.6.2023,1.6.2023,  Ryanair,  2000 ,  ekonomická.,7:00,8:30
+ Vídeň,Paříž,1.6.2023,1.6.2023,  Austrian Airlines,  2500 ,  ekonomická.,8:00,9:00
+ Praha,Vídeň,1.6.2023,1.6.2023,  Ryanair,  1000 ,  ekonomická.,9:00,12:00
+ Londýn,Řím,1.6.2023,1.6.2023,  British Airways,  4000 ,  ekonomická.,10:00,14:00
+ Paříž,New York,1.6.2023,1.6.2023,  Air France,  15000 ,business.,11:00,12:30
+ Vídeň,Řím,1.6.2023,1.6.2023,  Austrian Airlines,  1800 ,  ekonomická.,12:00,13:30
+ Paříž,Praha,1.6.2023,1.6.2023,  Czech Airlines,  2200 ,  ekonomická.,13:00,16:00
+ Řím,Londýn,1.6.2023,1.6.2023,  Alitalia,  3500 ,  ekonomická.,14:00,18:00
+ New York,Paříž,1.6.2023,1.6.2023,  Delta Airlines,  5500 ,  business.,15:00,16:30
+ Řím,Vídeň,1.6.2023,1.6.2023,  Ryanair,  1500 ,  ekonomická.,16:00,17:00
+ Paříž,Londýn,1.6.2023,1.6.2023,  EasyJet,  1800 ,  ekonomická.,17:00,22:00
+ Vídeň,New York,1.6.2023,1.6.2023,  Austrian Airlines,  7000 ,  ekonomická.,18:00,19:30
+ Praha,Řím,1.6.2023,1.6.2023,  Czech Airlines,  1700 ,  ekonomická.,19:00,20:30
+ Paříž,Vídeň,1.6.2023,1.6.2023,  Air France,  2500 ,  ekonomická.,20:00,21:30
+ Londýn,Paříž,1.6.2023,1.6.2023,  British Airways,  2300 ,  ekonomická.,21:00,11:00
+ New York,Řím,1.6.2023,2.6.2023,  Delta Airlines,  10000 ,  business.,22:00,23:00
+ Vídeň,Praha,1.6.2023,1.6.2023,  Ryanair,  1200 ,  ekonomická.,23:00,3:00
+ Londýn,New York,1.6.2023,2.6.2023,  Virgin Atlantic,  6000 ,  ekonomická.,23:59,1:00
+ Paříž,Řím,1.6.2023,2.6.2023,  Air France,  2000 ,  ekonomická.,6:00,9:00
+ Řím,New York,1.6.2023,2.6.2023,  Alitalia,  9000 ,  ekonomická.,7:00,7:30
+ Vídeň,Paříž,2.6.2023,2.6.2023,  Austrian Airlines,  2200 ,  ekonomická.,8:00,12:00
+ Praha,New York,2.6.2023,2.6.2023,  Delta Airlines,  8500 ,  business.,9:00,9:30
+ Řím,Londýn,2.6.2023,2.6.2023,  Ryanair,  1900 ,  ekonomická.,10:00,16:00
+ New York,Vídeň,2.6.2023,2.6.2023,  Austrian Airlines,  17500 ,  business.,11:00,13:30
+ Paříž,Řím,2.6.2023,2.6.2023,  Air France,  2100 ,  ekonomická.,12:00,20:00
+ Londýn,Vídeň,2.6.2023,2.6.2023,  British Airways,  2800 ,  ekonomická.,13:00,14:00
+ Řím,New York,2.6.2023,2.6.2023,  Alitalia,  9500 ,  ekonomická.,14:00,15:30
+ Vídeň,Praha,2.6.2023,2.6.2023,  Ryanair,  1200 ,  ekonomická.,15:00,2:00
+ Paříž,Londýn,2.6.2023,2.6.2023,  EasyJet,  1700 ,  ekonomická.,16:00,19:00
+ New York,Řím,2.6.2023,3.6.2023,  Delta Airlines,  11000 ,  business.,17:00,18:30
+ Londýn,New York,2.6.2023,2.6.2023,  Virgin Atlantic,  6800 ,  ekonomická.,18:00,19:30
+ Řím,Paříž,2.6.2023,2.6.2023,  Air France,  2200 ,  ekonomická.,19:00,20:30
+ Vídeň,Londýn,2.6.2023,2.6.2023,  Austrian Airlines,  2500 ,  ekonomická.,20:00,4:00
+ Praha,Řím,2.6.2023,2.6.2023,  Czech Airlines,  1800 ,  ekonomická.,21:00,22:30
+ New York,Vídeň,2.6.2023,3.6.2023,  Lufthansa,  11500 ,  business.,22:00,23:30
+ Paříž,Londýn,2.6.2023,2.6.2023,  British Airways,  1900 ,  ekonomická.,23:00,0:30
+ Londýn,Řím,2.6.2023,2.6.2023,  Ryanair,  2200 ,  ekonomická.,0:00,7:00
+ Řím,Vídeň,2.6.2023,3.6.2023,  Austrian Airlines,  1900 ,  ekonomická.,1:00,2:30
+ Vídeň,New York,3.6.2023,3.6.2023,  Delta Airlines,  10000 ,ekonomická.,2:00,11:30
+ Vídeň,New York,3.6.2023,3.6.2023,  Delta Airlines,  100 ,business.,2:00,3:30
+ Londýn,Paříž,3.6.2023,3.6.2023,  EasyJet,  1500 ,  business.,3:00,4:30
